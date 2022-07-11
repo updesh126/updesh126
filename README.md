@@ -29,11 +29,11 @@ I'm a Web developer...
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ## 💻 My workspace
-  ![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
-  ![](https://img.shields.io/badge/windows_11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
-  ![](https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-  ![](https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
+  [![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)](https://www.asus.com/in/)
+  [![](https://img.shields.io/badge/windows_11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/software-download/windows11)
+  [![](https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](https://www.amd.com/en/products/apu/amd-ryzen-5-3550h)
+  [![](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)]()
+  [![](https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)](https://www.nvidia.com/en-in/geforce/graphics-cards/16-series/)
 
 ## Experience of Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
