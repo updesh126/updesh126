@@ -9,9 +9,11 @@
 
 
 ## 🚀 About Me
-
-
 I'm a Web developer...
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
+
 
 ## Language & Framework 
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,6 +23,13 @@ I'm a Web developer...
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![QT](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+
+## 💻 My workspace
+  ![](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
+  ![](https://img.shields.io/badge/windows_11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
+  ![](https://img.shields.io/badge/AMD%20Ryzen_5_3550H-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+  ![](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
+  ![](https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white)
 
 ## Experience of Operating System
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -35,6 +44,13 @@ I'm a Web developer...
 ![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ZORIN OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
+
+## Software
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://updesh126.github.io/MyPortfolio/)
