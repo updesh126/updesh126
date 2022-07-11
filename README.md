@@ -1,10 +1,12 @@
+<img src="./image.png" align="right" width="410" />
+
 - 👋 Hi, I’m @updesh126
 - 👀 I’m interested in creating games and software
 - 🌱 I’m currently learning Btech
 - 💞️ I any looking to collaborate with me ...
 - 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
 
-<img align="right" alt="Coding" Width="400" scr="image.png">
+
 
 ## 🚀 About Me
 
@@ -41,4 +43,4 @@ I'm a Web developer...
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKn8LcrUSyCk3osE9pU9Bxw)
 
 ## Github
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
