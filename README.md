@@ -1,7 +1,7 @@
 <img src="./image.png" align="right" width="410" />
 
-- 👋 Hi, I’m @updesh126
-- 👀 I’m interested in creating games and software
+- 👋 Hi, I’m Updesh Pratap singh
+- 👀 I’m interested in creating games, software and website
 - 🌱 I’m currently learning Btech
 - 💞️ I any looking to collaborate with me ...
 - 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
