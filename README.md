@@ -1,18 +1,21 @@
-<img src="./image.png" align="right" width="410" />
-
+# Updesh Pr Singh
 - 👋 Hi, I’m Updesh Pratap singh
 - 👀 I’m interested in creating games, software and website
 - 🌱 I’m currently learning Btech
 - 💞️ I any looking to collaborate with me ...
 - 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
-
-
-
 ## 🚀 About Me
+<img src="./image.png" align="right" width="510" />
+
 I'm a Web developer...
-<p align='center'>
+<p>
+<p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
+<p>
+  <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updesh126" width="350">
+</p>
+<p>
 
 
 ## Language & Framework 
