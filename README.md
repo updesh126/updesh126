@@ -5,7 +5,7 @@
 - 💞️ I any looking to collaborate with me ...
 - 📫 updesh071@gmail.com,updesh2020cs126@abesit.edu.in
 ## 🚀 About Me
-<img src="./image.png" align="right" width="500" />
+<img src="./image.png" align="right" width="450" />
 
 I'm a Web developer...
 <p>
