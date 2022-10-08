@@ -1,4 +1,5 @@
 # Updesh Pr Singh
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=updesh126&label=Profile%20views&color=0e75b6&style=flat" alt="updesh126" /> </p>
 - 👋 Hi, I’m Updesh Pratap singh
 - 👀 I’m interested in creating games, software and website
 - 🌱 I’m currently learning Btech
