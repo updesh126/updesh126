@@ -1,5 +1,7 @@
 # Updesh Pr Singh
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=updesh126&label=Profile%20views&color=0e75b6&style=flat" alt="updesh126" /> </p>
+
 - 👋 Hi, I’m Updesh Pratap singh
 - 👀 I’m interested in creating games, software and website
 - 🌱 I’m currently learning Btech
@@ -16,6 +18,7 @@ I'm a Web developer...
 <p>
   <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updesh126" width="350">
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=updesh126&" alt="updesh126" /></p>
 <p>
 
 
@@ -38,13 +41,7 @@ I'm a Web developer...
 
 ## Experience of Operating System
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![ARCH LINUX ](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![DEBIAN](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)
-[![KALI LINUX](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 [![LineageOS](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=whitee)](https://lineageos.org/)
-[![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
-[![MINT LINUX](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com/)
-[![MANJARO](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)](https://manjaro.org/)
 [![POP! OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
@@ -57,6 +54,8 @@ I'm a Web developer...
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Filmora](https://img.shields.io/badge/filmora-0A66C2?style=for-the-badge&logo=filmora&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-0A66C2?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://updesh126.github.io/MyPortfolio/)
