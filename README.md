@@ -13,7 +13,7 @@
 I'm a Web developer...
 <p>
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=light" width="350"></a>
 </p>
 <p>
   <a herf="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=updesh126" width="350">
