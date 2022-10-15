@@ -63,7 +63,7 @@ I'm a Web developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pratap_updesh?t=HWjRxZFZaejV7fxjTGcyxw&s=09)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKn8LcrUSyCk3osE9pU9Bxw)
 
-## Github
+## HacktoberFest 2K22
 [![@updesh126's Holopin board](https://holopin.me/updesh126)](https://holopin.io/@updesh126)
 
 ## Trophies 🏆
