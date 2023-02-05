@@ -10,7 +10,7 @@
 ## 🚀 About Me
 <img src="./image.png" align="right" width="450" />
 
-I'm a Web developer...
+I'm a Game developer...
 <p>
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=updesh126&show_icons=true&count_private=true&theme=light" width="350"></a>
